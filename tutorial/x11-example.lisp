@@ -1,4 +1,4 @@
-(asdf:operate 'asdf:load-op :cl-cairo2-x11)
+(asdf:operate 'asdf:load-op :cl-cairo2-xlib)
 
 ;;;; Make a test package
 (defpackage :cairo-xlib-example
